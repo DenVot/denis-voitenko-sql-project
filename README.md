@@ -1,1 +1,1 @@
-# denis-voitenko-sql-project
+# Проект по БД. Войтенко Денис Б13-301
